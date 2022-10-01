@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Quartz Honey
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quartz Honey
+MetacityTheme=Quartz Honey
+IconTheme=Marwaita-Light
+CursorTheme=Marwaita
+CursorSize=24
